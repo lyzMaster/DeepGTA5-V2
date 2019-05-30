@@ -28,18 +28,14 @@
 
 打开[远程遥控器](https://www.pixeldesert.com/console/)，控制开始或结束
 
-## 神经网络架构
-<p align="center">
-<img src="models/image/fx.jpg">
-</p>
 #### 总架构
-<img src="models/image/full.png">
+<img src="https://github.com/lyzMaster/deepgta5/raw/master/models/image/full.png">
 
 #### 主模型(NVDIA)
-<img src="models/image/main_model.png">
+<img src="https://github.com/lyzMaster/deepgta5/raw/master/models/image/main_model.png">
 
 #### 路径模型
-<img src="models/image/ladar_model.png">
+<img src="https://github.com/lyzMaster/deepgta5/raw/master/models/image/ladar_model.png">
 
 
 ## 使用的工具
