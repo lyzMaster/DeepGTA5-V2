@@ -1,21 +1,21 @@
 # 基于端到端深度学习的自动驾驶系统
-###（安装、技术详情请参考项目设计说明书.pdf）
+
 ## 效果
 
 <p align="center">
-  <img src="image/1.png">
+  <img src="https://raw.githubusercontent.com/lyzMaster/DeepGTA5-V2/master/image/1.PNG">
 </p>
 
 <p align="center">
-  <img src="image/2.png">
+  <img src="https://raw.githubusercontent.com/lyzMaster/DeepGTA5-V2/master/image/2.PNG">
 </p>
 
 <p align="center">
-  <img src="image/3.png">
+  <img src="https://raw.githubusercontent.com/lyzMaster/DeepGTA5-V2/master/image/3.PNG">
 </p>
 
 <p align="center">
-  <img src="image/4.png">
+  <img src="https://raw.githubusercontent.com/lyzMaster/DeepGTA5-V2/master/image/4.PNG">
 </p>
 
 <p align="center">
