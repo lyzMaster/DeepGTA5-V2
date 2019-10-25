@@ -2,7 +2,7 @@
 
 ## 效果
 
-[![Watch the demo video](https://raw.githubusercontent.com/lyzMaster/DeepGTA5-V2/master/image/1.PNG)](https://youtu.be/7dTMGus53y8)
+[![Watch the demo video](https://raw.githubusercontent.com/lyzMaster/DeepGTA5-V2/master/image/video_face.PNG)](https://youtu.be/7dTMGus53y8)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lyzMaster/DeepGTA5-V2/master/image/1.PNG">
