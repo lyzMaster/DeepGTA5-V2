@@ -1,6 +1,8 @@
-# 基于端到端深度学习的自动驾驶系统
+# 基于纯视觉端到端深度学习的自动驾驶系统
 
 ## 效果
+
+[![Watch the demo video](https://raw.githubusercontent.com/lyzMaster/DeepGTA5-V2/master/image/1.PNG)](https://youtu.be/7dTMGus53y8)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lyzMaster/DeepGTA5-V2/master/image/1.PNG">
